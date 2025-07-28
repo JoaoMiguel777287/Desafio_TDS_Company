@@ -12,7 +12,6 @@ ${BASE_URL}       https://www.automationexercise.com/
 
 *** Keywords ***
 Abrir Navegador Inicial
-    # Esta keyword não precisa de argumentos se a URL base for sempre a mesma
     Open Browser    ${BASE_URL}    ${BROWSER}
     Maximize Browser Window
     Set Selenium Implicit Wait    5s
@@ -21,7 +20,6 @@ Abrir Navegador Inicial
     Log To Console    "Navegador aberto e na página inicial (${BASE_URL})."
 
 Fechar Todos Os Navegadores
-    # Esta keyword é a que você quer usar para Suite Teardown
     Close All Browsers
     Log To Console    "Todos os navegadores foram fechados."
 
