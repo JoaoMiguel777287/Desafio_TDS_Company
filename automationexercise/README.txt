@@ -14,5 +14,8 @@ robotframework_automationexercise/
 ├── resources/
 │   └── common.robot
 ├── results/                
-├── README.md               ✅ Explica tudo sobre o projeto
-├── requirements.txt        ✅ Contém as dependências para instalação
+├── README.md               ✅ Explica tudo sobre o projeto.
+├── requirements.txt        ✅ Contém as dependências para instalação.
+├── Casos de testes.xlsx    ✅ Contém os cenários de testes manauis.
+├── Plano de teste.txt      ✅ Descreve todo o escopo, a abordagem e outros detalhes do plano de testes.
+
