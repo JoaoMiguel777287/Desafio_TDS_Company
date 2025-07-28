@@ -1,5 +1,5 @@
 
-Este Plano de Testes serve como um documento de alto nível que orienta todo o processo de teste, sem listar os casos de teste detalhados (que já estão nas suas planilhas).
+Este Plano de Testes serve como um documento de alto nível que orienta todo o processo de teste, sem listar os casos de teste detalhados.
 
 ---
 
