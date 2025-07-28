@@ -8,6 +8,9 @@ robotframework_automationexercise/
 ├── tests/
 │   ├── login.robot
 │   └── cadastro.robot
+├── pages/
+│   ├── login.robot
+│   └── cadastro.robot
 ├── resources/
 │   └── common.robot
 ├── results/                
